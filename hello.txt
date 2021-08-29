@@ -17,3 +17,4 @@ Hello Git! hot-fix test
 GitHub commit
 commited by gitProject2
 GitHub second commit
+master fourth commit
